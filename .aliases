@@ -37,9 +37,9 @@ alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 
 # Box specific aliases
-alias code='cd /Users/amlvt225/Code/GitHub/'
-alias donk='cd /Users/amlvt225/Code/GitHub/donkey_golf'
-alias vact = 'source /Users/amlvt225/Code/VirtualEnvs/venv_dgolf/bin/activate'
+alias code="cd /Users/amlvt225/Code/GitHub"
+alias donk="cd /Users/amlvt225/Code/GitHub/donkey_golf"
+alias vact="source /Users/amlvt225/Code/VirtualEnvs/venv_dgolf/bin/activate"
 
 # Get week number
 alias week='date +%V'

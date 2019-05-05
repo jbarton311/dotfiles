@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+TZ='America/New_York'; export TZ
 # Make vim the default editor.
 export EDITOR='vim';
 
